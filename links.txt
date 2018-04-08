@@ -1,0 +1,13 @@
+MRI Sequences
+https://www.youtube.com/watch?v=mOt2FeGHjaY
+
+Brain Tumor Segmentation Deep Neural Network
+https://www.youtube.com/watch?v=X9DVsQtFS6U
+
+Brain Tumor Segmentation Using CNN in MRI Images
+https://www.youtube.com/watch?v=8nKSA5hC3WY
+
+NiftyNet
+https://cmiclab.cs.ucl.ac.uk/CMIC/NiftyNet/
+
+
